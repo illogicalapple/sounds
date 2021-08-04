@@ -4,7 +4,7 @@ img.click {
 	left: 50%;
 	transform: translate(-50%, -50%);
 	font-size: clamp(14px, 15vmin, 30px);
-	height: 2em;
+	height: 4em;
 	filter: invert(1);
 }
 body[data-dark-mode] img.click {
