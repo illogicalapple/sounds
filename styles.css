@@ -1,0 +1,8 @@
+img.click {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: clamp(14px, 15vmin, 30px);
+	height: 1em;
+}
